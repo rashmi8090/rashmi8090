@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rashmi Kumari
-- 👀 I’m interested in data science and data analtics job roles
+- 👀 I’m interested in data science and AI roles
 - 🌱 I’m currently learning Full stack Data science and AI 
 - 📫 Reach me at rashmi809@gmail.com
 
